@@ -19,7 +19,6 @@ python WhatBytesAssignment/manage.py migrate
 python WhatBytesAssignment/manage.py runserver
 ```
 
-Copy `.env.example` to `.env` and update values when using PostgreSQL. Without `DB_NAME`, the app uses local SQLite.
 
 ## API Endpoints
 
